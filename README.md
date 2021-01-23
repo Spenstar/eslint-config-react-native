@@ -1,7 +1,5 @@
 # eslint-config-react-native
 
-[![Version][version-badge]][package]
-
 ## Installation
 
 ```
